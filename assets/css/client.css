@@ -1,0 +1,12 @@
+.modal-dialog {
+    max-width: 80% !important;
+    margin: 1.75rem auto !important;
+}
+.ast-separate-container .ast-article-post, .ast-separate-container .ast-article-single {
+    padding: 0em 0em !important;
+}
+
+#view_modal{
+    padding: 0 !important;
+
+}

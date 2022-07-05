@@ -1,0 +1,53 @@
+Modal
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+	<div class="modal-dialog modal-dialog-centered" style="max-width:80%" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body">
+
+				<div class="ast-woocommerce-container" id="view_modal">
+					<div class="woocommerce-notices-wrapper">
+
+					</div>
+
+					<div id="product-168" class="ast-article-single product type-product post-168 status-publish first instock product_cat-groceries has-post-thumbnail featured shipping-taxable purchasable product-type-simple">
+						<div class="row">
+							<div class="col-8">
+
+								<div data-thumb="http://localhost/Quickview/wp-content/uploads/2018/06/coffee-asorted.jpg" data-thumb-alt="" class="woocommerce-product-gallery__image"><a href="http://localhost/Quickview/wp-content/uploads/2018/06/coffee-asorted.jpg"><img width="600" height="600" src="http://localhost/Quickview/wp-content/uploads/2018/06/coffee-asorted.jpg" class="wp-post-image" alt="" loading="lazy" title="coffee-asorted" data-caption="" data-src="http://localhost/Quickview/wp-content/uploads/2018/06/coffee-asorted.jpg" data-large_image="http://localhost/Quickview/wp-content/uploads/2018/06/coffee-asorted.jpg" data-large_image_width="1000" data-large_image_height="1000" /></a></div>
+
+							</div>	
+
+							<div class="col-4 ps-0 ms-0">
+
+								<!-- <div class="summary entry-summary"> -->
+
+									<h1 class="product_title entry-title">Assorted Coffee</h1>
+									<p class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>35.00</bdi></span></p>
+									<div class="woocommerce-product-details__short-description">
+										<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
+									</div>
+
+									<div class="product_meta">
+										<span class="posted_in">Category: <a href="http://localhost/Quickview/index.php/product-category/groceries/" rel="tag">Groceries</a></span>
+									</div>
+
+								<!-- </div> -->
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+
+			</div>
+		</div>
+	</div>
+</div> -->
